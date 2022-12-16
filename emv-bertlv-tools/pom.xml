@@ -10,7 +10,7 @@
     <properties>
         <appengine.app.version>1</appengine.app.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.version>4.0.6.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <kotlin.version>1.0.0</kotlin.version>
         <appengine.target.version>1.9.48</appengine.target.version>
         <!-- App Engine Standard currently requires Java 7 -->
